@@ -109,7 +109,7 @@ I have gained insight on how the models can be applied in situations today such 
 
 What are (my/the) perceived strengths and weaknesses that I have observed?
 
-A perceived weakness that I observed this week was trying to grasp the content with ease. Although I stated previously that a core strength I possess is the ability to grasp and retain large amounts of information, I found that this week’s content was rather challenging to absorb. However, I aim to combat this issue by crafting and revising my notes without distractions. A strength I have observed is that I was able to easily form assignment groups and find platforms to communicate regularly. We also assigned the group leader relatively easily. 
+There were no apparent strengths or weaknesses that I have observed for this week as I progressed similarly to how I went last week. 
 
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
@@ -143,7 +143,7 @@ This week, there were no particular strengths and weaknesses that I observed as 
 
 What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-The main challenge I encountered this week was trying to understand the functioning of Python. I struggled despite thorough research and hence I handled the situation well by asking assistance from my group members.
+The main challenge I encountered this week was trying to understand the functioning of Jupyter. I struggled despite thorough research and hence I handled the situation well by asking assistance from my group members.
 
 What would I do better next time and with what anticipated results?
 
